@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="Loan Simulator" skipped="0" tests="1" time="4.16" timestamp="2024-11-17 11:02:11"><testcase name="Calculate the monthly payment of a loan"><error message="Cannot invoke &quot;Object.getClass()&quot; because &quot;object&quot; is null" type="java.lang.NullPointerException">Cannot invoke "Object.getClass()" because "object" is null</error><system-err>Cannot invoke "Object.getClass()" because "object" is null
+co.com.udea.calidad.pagos.interactions.ChooseDropdownValue.withValue(ChooseDropdownValue.java:55)
+co.com.udea.calidad.pagos.stepdefinitions.LoanSimulatorStepDefinition.I_choose_the_number_of_payments(LoanSimulatorStepDefinition.java:52)
+✽.I choose the number of payments "32 meses"(file:///Users/juand/Downloads/clase2/src/test/resources/features/loan_simulator.feature:14)
+</system-err></testcase></testsuite>
